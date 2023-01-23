@@ -1,0 +1,42 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+h3 {
+    color: hsl(218, 44%, 22%);
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    width: 76%;
+    margin: auto;
+}
+
+p {
+    color:hsl(220, 15%, 55%);
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 0.75rem;
+    margin: auto;
+    width: 85%;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.top {
+    width: 73%;
+}
+
+.main {
+    background-color: white;
+    margin: auto;
+    border-radius: 5%;
+    margin-top: 133px;
+    width: 280px;
+    height: 420px;
+}
+
+.qr {
+    height: 250px;
+    width: 255px;
+    border-radius: 3%;
+    margin: 13px;
+}
